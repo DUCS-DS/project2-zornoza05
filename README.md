@@ -4,7 +4,7 @@ Project 2 for Spring '25 Data Structures
 Question 1: If you were not already running at 60 fps, how much improvement did you
 get?
 
-Frame rate increased from 26 fps to 60 fps by optimizing distance checks, nearly tripling performance.
+Frame rate increased from 26 fps to 60 fps by optimizing distance calculations, nearly tripling performance.
 
 Question 2: What is the time-complexity of your algorithm as it depends
 on the number of nodes?
